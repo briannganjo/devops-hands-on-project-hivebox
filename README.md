@@ -53,3 +53,9 @@ Here is a pre-start checklist:
 ## Implementation
 
 ** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+
+- Hive Project Steps
+
+Phase 1
+1. Setup the local environment and initialize the remote repository with the Hive Project
+2. Configure Github with SSH to terminal.
