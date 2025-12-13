@@ -59,3 +59,13 @@ Here is a pre-start checklist:
 Phase 1
 1. Setup the local environment and initialize the remote repository with the Hive Project
 2. Configure Github with SSH to terminal.
+
+Phase 2
+1. Developed a python application where we specified the version of the Hivebox application, this application is simple and prints out the version.
+2. A Dockerfile was created to build the application image, we then tan this locally as a container to verify the application outputted the correct version.
+### Verification
+```bash
+docker build -t hivebox:0.0.1 .
+docker run hivebox:0.0.1
+
+
