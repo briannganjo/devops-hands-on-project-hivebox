@@ -1,0 +1,12 @@
+# Web Framework for the API
+Flask==3.0.3
+
+# HTTP Client for calling openSenseMap API
+requests==2.32.3
+
+# Testing Framework (for tests/test_api.py)
+pytest==8.3.2
+pytest-mock==3.14.0 
+
+# Static Code Analysis (for CI/CD linting step)
+pylint==3.2.6
